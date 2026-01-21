@@ -1,4 +1,10 @@
-tieude {
+.tieude {
   color:tomato;
-  font-ưeigh:bold;}
-
+  font-weigh:bold;
+  font-size:25pt;
+}
+.noidung {
+  color:black;
+  font-style:normal;
+  font-size:14pt;
+}
